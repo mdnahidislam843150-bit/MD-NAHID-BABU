@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemap for search engines (Googlebot, Bingbot, Yahoo)
+Sitemap: https://smartshopbd.com/sitemap.xml
